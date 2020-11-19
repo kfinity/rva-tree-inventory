@@ -5,7 +5,7 @@ Richmond, Virginia has a great tree inventory (a few years old) which [you can v
 I wanted to be able to play around with the data myself, so I scraped it from the ArcGIS API. 
 
  * The data is saved in tree_inventory_[date].csv
- * The visualization code is in visualize.ipynb
+ * The visualization code is in visualize.ipynb - it should be relatively easy to modify and play with.
  * The scraper code is in tree_inventory_parse.ipynb
  * There's some samples in /pics/
 
