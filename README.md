@@ -10,3 +10,7 @@ I wanted to be able to play around with the data myself, so I scraped it from th
  * There's some samples in /pics/
 
 You can run `pip install requirements.txt` to install the packages, I think I got them all.
+
+![top 10 street trees in Richmond](pics/top10.png)
+
+![Ginkgo biloba distribution in Richmond](pics/ginkgo.png)
